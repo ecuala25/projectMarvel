@@ -1,0 +1,17 @@
+.card {
+    display: flex;
+    justify-content: center;
+    width: 100%;
+    text-align: center;
+    margin: 20px 0;
+  }
+  
+  .individual-card {
+    max-width: 500px;
+    width: 100%;
+    height: 50%;
+    border: 2px solid rgb(116, 24, 24);
+    margin: 20px;
+    border-radius: 10px;
+  }
+  
